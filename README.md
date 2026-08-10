@@ -1,8 +1,8 @@
-# Email Spam Classifier
+# Email Spam Detection System
 
 ## Overview
 
-This project is a Machine Learning-based Email Spam Classifier that classifies messages as either **Spam** or **Ham (Not Spam)**.
+This project is a Machine Learning-based Email Spam Detection System that classifies messages as either **Spam** or **Ham (Not Spam)**.
 
 The project uses the SMS Spam Collection dataset containing 5,572 messages. The text data is converted into numerical features using **TF-IDF (Term Frequency-Inverse Document Frequency)**, and **Logistic Regression** is used as the classification algorithm.
 
